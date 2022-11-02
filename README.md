@@ -5,7 +5,7 @@ I made this repository to practice using Docker in a React js application.
 To use the React JS project with Docker you must follow these steps:
 
 - Download or Clone the project
-- In the root folder of the project, run the commando: ### `docker-compose up`
+- In the root folder of the project, run the commando: `docker-compose up`
 - Open Open [http://localhost:3000] to see the app running
 
 
